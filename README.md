@@ -1,7 +1,7 @@
 # INVENTORY SEPATU
 ## KELOMPOK 5
 
-(https://github.com/byanscool89/PROJEK-AKHIR-WSII-KELOMPOK5/Github-README-5.png)
+(https://github.com/byanscool89/PROJEK-AKHIR-WSII-KELOMPOK5/blob/main/Github-README-5.png)
 
 ### 🌐Tentang Project:
 ----------------
